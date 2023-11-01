@@ -1,6 +1,6 @@
 # Push Notifications Jest
 
-[![npm version](https://badge.fury.io/js/@universal-packages%2Fbackground-jobs-jest.svg)](https://www.npmjs.com/package/@universal-packages/push-notifications-jest)
+[![npm version](https://badge.fury.io/js/@universal-packages%2Fpush-notifications-jest.svg)](https://www.npmjs.com/package/@universal-packages/push-notifications-jest)
 [![Testing](https://github.com/universal-packages/universal-push-notifications-jest/actions/workflows/testing.yml/badge.svg)](https://github.com/universal-packages/universal-push-notifications-jest/actions/workflows/testing.yml)
 [![codecov](https://codecov.io/gh/universal-packages/universal-push-notifications-jest/branch/main/graph/badge.svg?token=CXPJSN8IGL)](https://codecov.io/gh/universal-packages/universal-push-notifications-jest)
 
