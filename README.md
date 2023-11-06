@@ -29,7 +29,7 @@ module.exports = {
 ### toHavePushedNotification
 
 ```js
-import { PushNotifications } from './MyJob'
+import { PushNotifications } from '@universal-packages/push-notifications'
 import config from './config'
 
 it('should push notification', async () => {
@@ -47,7 +47,7 @@ it('should push notification', async () => {
 ### toHavePushedNotificationTo
 
 ```js
-import { PushNotifications } from './MyJob'
+import { PushNotifications } from '@universal-packages/push-notifications'
 import config from './config'
 
 it('should push notification', async () => {
@@ -65,7 +65,7 @@ it('should push notification', async () => {
 ### toHavePushedAndroidNotification
 
 ```js
-import { PushNotifications } from './MyJob'
+import { PushNotifications } from '@universal-packages/push-notifications'
 import config from './config'
 
 it('should push notification', async () => {
@@ -83,7 +83,7 @@ it('should push notification', async () => {
 ### toHavePushedAndroidNotificationTo
 
 ```js
-import { PushNotifications } from './MyJob'
+import { PushNotifications } from '@universal-packages/push-notifications'
 import config from './config'
 
 it('should push notification', async () => {
@@ -101,7 +101,7 @@ it('should push notification', async () => {
 ### toHavePushedIosNotification
 
 ```js
-import { PushNotifications } from './MyJob'
+import { PushNotifications } from '@universal-packages/push-notifications'
 import config from './config'
 
 it('should push notification', async () => {
@@ -119,7 +119,7 @@ it('should push notification', async () => {
 ### toHavePushedIosNotificationTo
 
 ```js
-import { PushNotifications } from './MyJob'
+import { PushNotifications } from '@universal-packages/push-notifications'
 import config from './config'
 
 it('should push notification', async () => {
