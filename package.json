@@ -16,7 +16,7 @@
     "update-dependents": "umaintenance update-dependents"
   },
   "peerDependencies": {
-    "@universal-packages/push-notifications": "^1.1.0"
+    "@universal-packages/push-notifications": "^1.2.0"
   },
   "devDependencies": {
     "@trivago/prettier-plugin-sort-imports": "^4.2.0",
